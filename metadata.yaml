@@ -1,0 +1,28 @@
+_repo: The-Gist-of-JapanThe-Islands-Their-People-and-Missions_42304
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42304-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Peery, R. B. (Rufus Benton)
+    alias: Peery, Rufus Benton
+    birthdate: 1868
+    gutenberg_agent_id: '41624'
+    url: http://www.gutenberg.org/2009/agents/41624
+description: ''
+gutenberg_issued: '2013-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42304'
+  lccn: '04024333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Japan -- Social life and customs'
+- !lcsh 'Missions -- Japan'
+title: 'The Gist of Japan: The Islands, Their People, and Missions'
+url: http://www.gutenberg.org/ebooks/42304
